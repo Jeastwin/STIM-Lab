@@ -1,1 +1,1 @@
-wweb: vendor/bin/heroku-php-apache2
+wweb: heroku-php-apache2
